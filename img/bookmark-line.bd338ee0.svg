@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 60 (101010) - https://sketch.com -->
+    <title>7CBFD616-A77E-4869-8C27-69AF80B99987</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M17.4444444,18.4246558 L17.4444444,5.38747541 C17.4444444,4.94840655 17.0957785,4.59165027 16.6666667,4.59165027 L7.33333333,4.59165027 C6.90422147,4.59165027 6.55555556,4.94840655 6.55555556,5.38747541 L6.55555556,18.4246558 L12,15.6392678 L17.4444444,18.4246558 Z M5,21 L5,5.38747541 C5,4.06936237 6.04511186,3 7.33333333,3 L16.6666667,3 C17.9548881,3 19,4.06936237 19,5.38747541 L19,21 L12,17.4187869 L5,21 Z" id="path-1"></path>
+    </defs>
+    <g id="Asset-Artboard-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Bookmark/Line">
+            <rect id="24pt-Bounding-Box" x="0" y="0" width="24" height="24"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Fill" fill="#303133" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

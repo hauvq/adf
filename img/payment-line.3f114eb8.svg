@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="18px" viewBox="0 0 24 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Icon/Payment</title>
+    <desc>Created with Sketch.</desc>
+    <g id="🎨-Style-Guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-(Light)" transform="translate(-298.000000, -779.000000)">
+            <g id="Standard" transform="translate(32.000000, 569.000000)">
+                <g id="Standard-Icons" transform="translate(0.000000, 63.000000)">
+                    <g id="Icon/Payment" transform="translate(266.000000, 144.000000)">
+                        <rect id="24pt-Bounding-Box" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M21,3 C22.6568542,3 24,4.34314575 24,6 L24,18 C24,19.6568542 22.6568542,21 21,21 L3,21 C1.34314575,21 0,19.6568542 0,18 L0,6 C0,4.34314575 1.34314575,3 3,3 L21,3 Z M22,12 L2,12 L2,18 C2,18.5522847 2.44771525,19 3,19 L21,19 C21.5522847,19 22,18.5522847 22,18 L22,12 Z M21,5 L3,5 C2.44771525,5 2,5.44771525 2,6 L2,8 L22,8 L22,6 C22,5.44771525 21.5522847,5 21,5 Z" id="Combined-Shape" fill="#303133" fill-rule="evenodd"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

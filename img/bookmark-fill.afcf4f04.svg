@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 60 (101010) - https://sketch.com -->
+    <title>C7F5A78E-8428-47E1-8B07-CCDA2E6DB05A</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M17.4444445,3 L6.55555562,3 L6.55555556,3 C5.69644556,3 5,3.73262536 5,4.63636364 C5,4.63636364 5,4.63636364 5,4.63636364 L5,21 L12,16.0909091 L19,21 L19,4.63636364 L19,4.63636364 C19,3.73262455 18.3035537,3 17.4444444,3 L17.4444445,3 Z" id="path-1"></path>
+    </defs>
+    <g id="Asset-Artboard-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Bookmark/Fill">
+            <rect id="24pt-Bounding-Box" x="0" y="0" width="24" height="24"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Fill" fill="#303133" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

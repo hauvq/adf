@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Time</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Time">
+            <rect id="24pt-Bounding-Box" x="0" y="0" width="24" height="24"></rect>
+            <path d="M12,22.0001 C17.523,22.0001 22,17.5221 22,12.0001 C22,6.4771 17.523,2.0001 12,2.0001 C6.477,2.0001 2,6.4771 2,12.0001 C2,17.5221 6.477,22.0001 12,22.0001 Z M12,0.0001 C18.627,0.0001 24,5.3731 24,12.0001 C24,18.6271 18.627,24.0001 12,24.0001 C5.373,24.0001 0,18.6271 0,12.0001 C0,5.3731 5.373,0.0001 12,0.0001 Z M13,6.0245 C13.552,6.0245 14,6.4725 14,7.0245 L14,13.0245 C14,13.5775 13.552,14.0245 13,14.0245 L8,14.0245 C7.448,14.0245 7,13.5775 7,13.0245 C7,12.4725 7.448,12.0245 8,12.0245 L12,12.0245 L12,7.0245 C12,6.4725 12.448,6.0245 13,6.0245 Z" id="Combined-Shape" fill="#303133" fill-rule="evenodd"></path>
+        </g>
+    </g>
+</svg>
